@@ -1,0 +1,30 @@
+div {
+    font-family: verdana;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {
+    font-size:38px;
+    color: #88100f;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16px;
+    text-decoration: underline;
+    color: #88100f;
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+img {
+    text-align: center;
+}
